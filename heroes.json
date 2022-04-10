@@ -17,12 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "27fad8db-2353-4050-a6d1-309548ef533e",
-      "name": "Андрій",
-      "description": "fly",
-      "element": "water"
     }
   ],
   "filters": [
